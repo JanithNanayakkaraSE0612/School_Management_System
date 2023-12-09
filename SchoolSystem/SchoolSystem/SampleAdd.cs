@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace SchoolSystem
 {
-    public partial class SampleAdd : Form
+    public partial class SampleAdd : Sample
     {
         public SampleAdd()
         {
